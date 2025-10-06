@@ -1,0 +1,5 @@
+menuconfig EXFAT_FS
+  bool "exFAT filesystem support (placeholder)"
+  default n
+  help
+    Placeholder Kconfig to satisfy include when fs/exfat sources are missing.
